@@ -10,6 +10,7 @@
 	<li> [2.1 Yêu cầu cấu hình] (#yc)
 	<li> [2.2 Các bước cài đặt] (#cb)
 	</ul>
+	
 <li> [3.Lời cảm ơn] (#tks)
 </ul>
 
@@ -43,5 +44,56 @@
 | Bộ nhớ    | 500 MB       |
 |VIDEO CARD | VGA @ 640×480|
 
+**cấu hình áp dụng trong bài**
+
+|           | Server      | 
+|--------------|-------|
+| CPU       |300 MHz (x86) | 
+| RAM       | 1 GB         | 
+| Bộ nhớ    | 20 GB        |
+|VIDEO CARD | VGA @ 640×480|
+
+<a name="cb"></a>
+### 2.2 Các bước cài đặt:
+
+**Bước 1:** Chọn ngôn ngữ cho Ubuntu Server 
+
+<img src=http://i.imgur.com/vxH3NlF.png>
+
+**Bước 2:** Chọn Install để bắt đầu cài đặt
+
+<img src=http://i.imgur.com/E78ePNi.png>
+
+**Bước 3:** Chọn ngôn ngữ hiển thị 
+
+<img src=http://i.imgur.com/RYUpA9x.png>
+
+**Bước 4:** Chọn **NO** nếu muốn tự cài đặt bàn phím
+
+<img src=http://i.imgur.com/D37UKd0.png>
+
+**Bước 5:** Có thể chọn dịch vụ DHCP hoặc tự configure network
+
+<img src=http://i.imgur.com/K9oFjO1.png>
+
+**Bước 6:** Cấu hình địa chỉ IP, gateway, name server, hostname, domain name,password ( có thể để trống nếu không cài đặt ).
+
+<img src=http://i.imgur.com/3eIg7AZ.png>
+
+<img src=http://i.imgur.com/idO9fcE.png>
+
+<img src=http://i.imgur.com/Y0xF3i5.png>
+
+<img src=http://i.imgur.com/miO7COv.png>
+
+<img src=http://i.imgur.com/DNp2Kdi.png>
+
+<img src=http://i.imgur.com/yUKilXB.png>
+
+<img src=http://i.imgur.com/d4nCqyJ.png>
+
+<img src=http://i.imgur.com/tXDW0XY.png>
+
+**Bước 7:** 
 
 	 

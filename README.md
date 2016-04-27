@@ -2,17 +2,16 @@
 ==========
 
 -[Mục lục ] (#content)
-     
-	 <ul>
-	 <li> [1.giới thiệu Ubuntu Server] (#gt)
+<ul>
+<li> [1.giới thiệu Ubuntu Server] (#gt)
 	
-	 <li> [2.Hướng dẫn cài đặt Ubuntu Server 14.04 64-bit] (#hd)
-		<ul>
-		<li> [2.1 Yêu cầu cấu hình] (#yc)
-		<li> [2.2 Các bước cài đặt] (#cb)
-		</ul>
-	 <li> [3.Lời cảm ơn] (#tks)
-	 </ul>
+<li> [2.Hướng dẫn cài đặt Ubuntu Server 14.04 64-bit] (#hd)
+	<ul>
+	<li> [2.1 Yêu cầu cấu hình] (#yc)
+	<li> [2.2 Các bước cài đặt] (#cb)
+	</ul>
+<li> [3.Lời cảm ơn] (#tks)
+</ul>
 #Note: 
 - Phiên Bản VMware được giới thiệu trong bài là VMware Workstation 10
 - Host cài đặt: Win 8.1- 64bit

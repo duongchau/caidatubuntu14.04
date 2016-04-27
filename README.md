@@ -2,17 +2,17 @@
 ==========
 
 -[Mục lục ] (#content)
- [1.giới thiệu Ubuntu Server] (#gt) </li>
+
+ <li> [1.giới thiệu Ubuntu Server] (#gt) </li>
 
 <li> [2.Hướng dẫn cài đặt Ubuntu Server 14.04 64-bit] (#hd) </li>
 	<ul>
 	<li> [2.1 Yêu cầu cấu hình] (#yc) </li>
 	<li> [2.2 Các bước cài đặt] (#cb) </li>
 	</ul>
-	</ul>
-<ul>
+	
 <li> [3.Lời cảm ơn] (#tks) </li>
-</ul>
+
 </ul>
 
 #Note: 

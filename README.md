@@ -1,4 +1,4 @@
-#Cài đặt Ubuntu server 14.04-4 64 bit lên vmware worksation 12
+#Cài đặt Ubuntu server 14.04-4 64 bit trên VMware Worksation 12
 ==========
 
 -[Mục lục ] (#content)
@@ -76,7 +76,7 @@
 
 <img src=http://i.imgur.com/K9oFjO1.png>
 
-**Bước 6:** Cấu hình địa chỉ IP, gateway, name server, hostname, domain name,password ( có thể để trống nếu không cài đặt ).
+**Bước 6:** Cấu hình địa chỉ IP, gateway, name server, hostname, domain name,tài khoản và password ( Một số phần có thể để trống nếu không cài đặt ).
 
 <img src=http://i.imgur.com/3eIg7AZ.png>
 
@@ -94,6 +94,36 @@
 
 <img src=http://i.imgur.com/tXDW0XY.png>
 
-**Bước 7:** 
+**Bước 7:** Chia ổ đĩa
 
-	 
+<img src=http://i.imgur.com/Qxbv4YJ.png>
+
+<img src=http://i.imgur.com/Z6uhCkN.png>
+
+Bạn có thể tham khảo cách chia ổ đĩa này
+
+<img src=http://i.imgur.com/r9cLtO9.png>
+
+<img src=http://i.imgur.com/w5ouSj4.png>
+
+**Bước 8:** Quản lý việc update hệ thống 
+
+<img src=http://i.imgur.com/f7uZGj3.png>
+
+**Bước 9:** Chọn các gói cài đặt cho Server
+
+<img src=http://i.imgur.com/KTct6IF.png>
+
+**Bước 10:** Cài đặt GRUB
+
+<img src=http://i.imgur.com/a8J2GOi.png>
+
+**Bước 11:** Hoàn thành cài đặt Ubuntu Server 14-04
+
+<img src=http://i.imgur.com/6YDA96H.png>
+
+<img src=http://i.imgur.com/5WCcE5T.png>
+
+<a name="tks"></a>
+## 3.Lời cảm ơn
+Cảm ơn các bạn đã đọc hết bài viết này. Tôi hoan nghênh mọi ý kiến đóng.

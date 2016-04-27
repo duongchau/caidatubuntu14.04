@@ -1,5 +1,5 @@
 #Cài đặt Ubuntu server 14.04-4 64 bit trên
-          VMware Worksation 12
+          #VMware Worksation 12
 ==========
 
 -[Mục lục ] (#content)
